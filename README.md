@@ -3,7 +3,7 @@ Projeto de um veículo mecatonico usando sucata de lixo eletronico
 
 
 
-  ##Autor 
+  ##Autores 
 
 
 - Reinaldo
