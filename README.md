@@ -7,7 +7,7 @@
 
 # carrinho mecatronico 
 Projeto de um veículo mecatonico usando sucata de lixo eletronico 
-  ##Autores 
+  ##Author 
  
  - Reinaldo
 - Jhonatan Josué
